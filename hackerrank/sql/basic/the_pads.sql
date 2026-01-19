@@ -21,7 +21,7 @@ FROM OCCUPATIONS
 ORDER BY Name ASC;
 
 SELECT
-    CONCAT('There are a total of ', COUNT(*) , ' ', LOWER(Occupation), 's.') AS 'occupation_summary'
+    CONCAT('There are a total of ', COUNT(*) , ' ', LOWER(Occupation), 's.') AS "occupation_summary"
 FROM OCCUPATIONS
 GROUP BY Occupation
 ORDER BY
