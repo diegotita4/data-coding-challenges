@@ -41,6 +41,7 @@ Rather than uploading every solved exercise, this repository focuses on problems
 
 ## Repository Structure
 
+```markdown
 coding-challenges
 ├── hackerrank/
 ├── leetcode/
@@ -48,6 +49,7 @@ coding-challenges
 └── templates/
     ├── python_template.py
     └── sql_template.sql
+```
 
 Each solution includes:
 - A short problem description

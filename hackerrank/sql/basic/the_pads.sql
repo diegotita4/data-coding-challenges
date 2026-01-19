@@ -24,5 +24,5 @@ SELECT
 FROM OCCUPATIONS
 GROUP BY Occupation
 ORDER BY
-    COUNT('occupation_summary') ASC,
+    COUNT(*) ASC,
     Occupation ASC;
