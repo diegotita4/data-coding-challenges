@@ -57,6 +57,7 @@ coding-challenges
         ├── basic/
             ├── the_blunder.sql
             ├── the_pads.sql
+            ├── top_earners.sql
             └── type_of_triangle.sql
         └── intermediate/
 ├── leetcode/
