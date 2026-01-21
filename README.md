@@ -55,6 +55,7 @@ coding-challenges
     └── sql/
         ├── advanced/
         ├── basic/
+            ├── population_census.sql
             ├── the_blunder.sql
             ├── the_pads.sql
             ├── top_earners.sql
