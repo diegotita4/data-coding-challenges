@@ -25,5 +25,5 @@ SELECT
 FROM OCCUPATIONS
 GROUP BY Occupation
 ORDER BY
-    COUNT(*) ASC,
-    Occupation ASC;
+    COUNT(*) ASC
+    , Occupation ASC;
