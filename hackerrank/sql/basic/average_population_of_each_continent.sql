@@ -17,8 +17,8 @@ Approach:
 */
 
 SELECT
-    CO.CONTINENT AS [continent_name],
-    FLOOR(AVG(CAST(CI.POPULATION AS BIGINT))) AS [avg_population]
+    CO.CONTINENT AS [continent_name]
+    , FLOOR(AVG(CAST(CI.POPULATION AS BIGINT))) AS [avg_population]
 FROM CITY AS CI
 INNER JOIN COUNTRY AS CO
     ON CO.CODE = CI.COUNTRYCODE
