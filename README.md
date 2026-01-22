@@ -58,6 +58,7 @@ coding-challenges
             ├── average_population_of_each_continent.sql
             ├── higher_than_75_marks.sql
             ├── population_census.sql
+            ├── population_density_difference.sql
             ├── the_blunder.sql
             ├── the_pads.sql
             ├── top_earners.sql
