@@ -2,7 +2,6 @@
 /*
 Title: Population Census
 Platform: HackerRank
-Category: Basic Joins
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
