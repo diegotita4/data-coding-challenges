@@ -2,7 +2,6 @@
 /*
 Title: Higher Than 75 Marks
 Platform: HackerRank
-Category: Filtering & Ordering
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
