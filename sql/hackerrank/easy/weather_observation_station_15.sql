@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 15
 Platform: HackerRank
-Category: Subqueries / Ordering
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
