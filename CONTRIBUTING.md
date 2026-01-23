@@ -18,7 +18,7 @@ However, the following guidelines are followed to ensure consistency, clarity, a
 ## Repository Structure
 
 - Challenges are organized by platform, language, and difficulty level.
-- Data-oriented projects live under `data_challenges/`.
+- Data-oriented cases live under `projects/`.
 - Templates are provided under `templates/` for consistency.
 
 ---
@@ -28,11 +28,8 @@ However, the following guidelines are followed to ensure consistency, clarity, a
 ### SQL
 - Use clear formatting and indentation.
 - Prefer explicit column names.
-- Avoid unnecessary complexity.
-- Follow ANSI SQL when possible, noting platform-specific behavior if needed.
 
 ### Python
-- Follow PEP 8 style guidelines.
 - Use meaningful variable and function names.
 - Add brief comments when logic is not immediately obvious.
 
@@ -44,9 +41,9 @@ However, the following guidelines are followed to ensure consistency, clarity, a
 - One logical change per commit when possible.
 
 Examples:
-- `add basic sql aggregation challenges`
-- `add hackerRank medium sql solutions`
-- `add pandas exploratory analysis notebook`
+- `docs: improve README formatting`
+- `feat: add SQL solution for challenge_name (platform_name)`
+- `feat: add case project for eda practice (data_name)`
 
 ---
 
