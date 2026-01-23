@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 12
 Platform: HackerRank
-Category: String Filtering
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
