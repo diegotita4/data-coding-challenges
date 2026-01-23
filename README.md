@@ -1,4 +1,8 @@
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/diegotita4/coding-challenges)
+![GitHub stars](https://img.shields.io/github/stars/diegotita4/coding-challenges)
+![Languages](https://img.shields.io/github/languages/top/diegotita4/coding-challenges)
+
 # Data & Analytics Practice Repository
 
 A curated repository focused on strengthening data fundamentals and progressively scaling toward real-world analytics and data science and engineering projects.
@@ -51,6 +55,7 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 
 ```text
 .
+├── projects/
 ├── python/
 │   ├── hackerrank/
 │   │   ├── easy/
@@ -110,3 +115,7 @@ This repository evolves as my skills evolve:
 - Later sections aim to reflect real-world data analysis, science, adn engineering workflows.
 
 **Learning is iterative; _this repo documents the journey_.**
+
+---
+
+> **_If you reached this far — thank you! Feel free to explore the SQL, Python notebooks, and project cases below._**
