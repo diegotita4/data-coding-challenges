@@ -43,7 +43,7 @@ However, the following guidelines are followed to ensure consistency, clarity, a
 Examples:
 - `docs: improve README formatting`
 - `feat: add SQL solution for challenge_name (platform_name)`
-- `feat: add case project for eda practice (data_name)`
+- `feat: add case project for exercise_name (data_name)`
 
 ---
 
