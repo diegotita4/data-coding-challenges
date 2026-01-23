@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 3
 Platform: HackerRank
-Category: Filtering & Modulo
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
