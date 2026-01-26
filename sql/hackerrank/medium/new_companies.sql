@@ -33,5 +33,4 @@ JOIN Employee AS E
 GROUP BY
     C.company_code
     , C.founder
-ORDER BY
-    C.company_code ASC;
+ORDER BY C.company_code ASC;
