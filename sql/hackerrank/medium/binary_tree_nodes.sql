@@ -28,4 +28,4 @@ SELECT
         ELSE 'Leaf'
     END AS [node_type]
 FROM BST
-ORDER BY [node];
+ORDER BY [node] ASC;
