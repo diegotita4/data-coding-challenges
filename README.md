@@ -83,12 +83,19 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 │   │   │   ├── weather_observation_station_4.sql
 │   │   │   └── weather_observation_station_5.sql
 │   │   ├── hard/
+│   │   │   ├── 15_days_of_learning_sql.sql
+│   │   │   └── interviews.sql
 │   │   └── medium/
+│   │       ├── binary_tree_nodes.sql
 │   │       ├── challenges.sql
 │   │       ├── contest_leaderboard.sql
 │   │       ├── new_companies.sql
+│   │       ├── occupations.sql
 │   │       ├── ollivanders_inventory.sql
 │   │       ├── placements.sql
+│   │       ├── print_prime_numbers.sql
+│   │       ├── sql_project_planning.sql
+│   │       ├── symmetric_pairs.sql
 │   │       ├── the_competitors.sql
 │   │       ├── the_pads.sql
 │   │       ├── the_report.sql
