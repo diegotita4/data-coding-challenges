@@ -17,10 +17,10 @@ Approach:
 SELECT
     C.company_code
     , C.founder
-    , COUNT(DISTINCT LM.lead_manager_code)   AS [lead_managers]
+    , COUNT(DISTINCT LM.lead_manager_code) AS [lead_managers]
     , COUNT(DISTINCT SM.senior_manager_code) AS [senior_managers]
-    , COUNT(DISTINCT M.manager_code)         AS [managers]
-    , COUNT(DISTINCT E.employee_code)        AS [employees]
+    , COUNT(DISTINCT M.manager_code) AS [managers]
+    , COUNT(DISTINCT E.employee_code) AS [employees]
 FROM Company AS C
 JOIN Lead_Manager AS LM
     ON LM.company_code = C.company_code
