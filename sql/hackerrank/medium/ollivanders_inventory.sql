@@ -19,7 +19,7 @@ WITH min_coins_needed AS (
     SELECT
         W.power
         , WP.age
-        , MIN(W.coins_needed) AS [min_coins_needed]
+        , MIN(W.coins_needed) AS [coins_needed]
     FROM Wands AS W
     JOIN Wands_Property AS WP
         ON W.code = WP.code
@@ -39,7 +39,7 @@ JOIN Wands_Property AS WP
 JOIN min_coins_needed AS MCN
     ON W.power = MCN.power
         AND WP.age = MCN.age
-        AND W.coins_needed = MCN.min_coins_needed
+        AND W.coins_needed = MCN.coins_needed
 ORDER BY
     W.power DESC
     , WP.age DESC;
