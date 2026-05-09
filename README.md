@@ -58,8 +58,11 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 ├── python/
 │   ├── hackerrank/
 │   │   ├── easy/
+│   │   │   ├── print_function.sql
+│   │   │   └── python_if_else.sql
 │   │   ├── hard/
 │   │   └── medium/
+│   │       └── write_a_function.sql
 │   └── leetcode/
 │       ├── easy/
 │       ├── hard/
