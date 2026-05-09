@@ -2,8 +2,8 @@
 """
 Title: 
 Platform: 
-Category: 
 Difficulty: 
+Language: 
 
 Problem Summary:
 Brief description of the problem.
