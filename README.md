@@ -58,6 +58,10 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 ├── python/
 │   ├── hackerrank/
 │   │   ├── easy/
+│   │   │   ├── finding_the_percentage.sql
+│   │   │   ├── list_comprehensions.sql
+│   │   │   ├── lists.sql
+│   │   │   ├── nested_lists.sql
 │   │   │   ├── print_function.sql
 │   │   │   └── python_if_else.sql
 │   │   ├── hard/
