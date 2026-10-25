@@ -1,7 +1,7 @@
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/diegotita4/coding-challenges)
-![GitHub stars](https://img.shields.io/github/stars/diegotita4/coding-challenges)
-![Languages](https://img.shields.io/github/languages/top/diegotita4/coding-challenges)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/diegotita4/data-coding-challenges)
+![GitHub stars](https://img.shields.io/github/stars/diegotita4/data-coding-challenges)
+![Languages](https://img.shields.io/github/languages/top/diegotita4/data-coding-challenges)
 
 # Data Practice Repository
 
@@ -43,7 +43,7 @@ This repository serves as a personal learning and portfolio space where I:
 ## Languages & Tools
 
 - SQL (MS SQL Server dialect)
-- Python (pandas, numpy, matplotlib, scikit-learn)
+- Python
 - Git & GitHub
 
 _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based data platforms like Snowflake or Databricks)_
@@ -54,67 +54,10 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 
 ```text
 .
-├── projects/
-├── python/
-│   ├── hackerrank/
-│   │   ├── easy/
-│   │   │   ├── finding_the_percentage.sql
-│   │   │   ├── list_comprehensions.sql
-│   │   │   ├── lists.sql
-│   │   │   ├── nested_lists.sql
-│   │   │   ├── print_function.sql
-│   │   │   └── python_if_else.sql
-│   │   ├── hard/
-│   │   └── medium/
-│   │       └── write_a_function.sql
-│   └── leetcode/
-│       ├── easy/
-│       ├── hard/
-│       └── medium/
-├── sql/
-│   ├── hackerrank/
-│   │   ├── easy/
-│   │   │   ├── average_population_of_each_continent.sql
-│   │   │   ├── employee_salaries.sql
-│   │   │   ├── higher_than_75_marks.sql
-│   │   │   ├── population_census.sql
-│   │   │   ├── population_density_difference.sql
-│   │   │   ├── the_blunder.sql
-│   │   │   ├── top_earners.sql
-│   │   │   ├── type_of_triangle.sql
-│   │   │   ├── weather_observation_station_12.sql
-│   │   │   ├── weather_observation_station_15.sql
-│   │   │   ├── weather_observation_station_17.sql
-│   │   │   ├── weather_observation_station_2.sql
-│   │   │   ├── weather_observation_station_3.sql
-│   │   │   ├── weather_observation_station_4.sql
-│   │   │   └── weather_observation_station_5.sql
-│   │   ├── hard/
-│   │   │   ├── 15_days_of_learning_sql.sql
-│   │   │   └── interviews.sql
-│   │   └── medium/
-│   │       ├── binary_tree_nodes.sql
-│   │       ├── challenges.sql
-│   │       ├── contest_leaderboard.sql
-│   │       ├── new_companies.sql
-│   │       ├── occupations.sql
-│   │       ├── ollivanders_inventory.sql
-│   │       ├── placements.sql
-│   │       ├── print_prime_numbers.sql
-│   │       ├── sql_project_planning.sql
-│   │       ├── symmetric_pairs.sql
-│   │       ├── the_competitors.sql
-│   │       ├── the_pads.sql
-│   │       ├── the_report.sql
-│   │       └── weather_observation_station_20.sql
-│   └── leetcode/
-│       ├── easy/
-│       ├── hard/
-│       └── medium/
-├── templates/
-│   ├── python_template.py
-│   └── sql_template.sql
-├── .gitignore
+├── sql/hackerrank/      31 solutions in T-SQL (15 easy, 14 medium, 2 hard)
+├── python/hackerrank/   7 solutions (6 easy, 1 medium)
+├── templates/           solution templates for SQL and Python
+├── CONTRIBUTING.md
 └── README.md
 .
 ```
@@ -133,7 +76,7 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 
 This repository evolves as my skills evolve:
 - Early sections focus on fundamentals and structured problem-solving.
-- Later sections aim to reflect real-world data analysis, science, anD engineering workflows.
+- Later sections aim to reflect real-world data analysis, science, and engineering workflows.
 
 **Learning is iterative; _this repo documents the journey_.**
 
